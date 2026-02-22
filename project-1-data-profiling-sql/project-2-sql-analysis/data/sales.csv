@@ -1,8 +1,0 @@
-order_id,customer,product,category,price,quantity,date
-1,Ani,Laptop,Electronics,800,1,2024-01-01
-2,Budi,Mouse,Electronics,20,2,2024-01-02
-3,Citra,Keyboard,Electronics,50,1,2024-01-03
-4,Dodi,Chair,Furniture,120,1,2024-01-03
-5,Eka,Desk,Furniture,300,1,2024-01-04
-6,Fajar,Laptop,Electronics,800,1,2024-01-05
-7,Gina,Mouse,Electronics,20,3,2024-01-06
