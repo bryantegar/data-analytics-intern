@@ -1,0 +1,11 @@
+customer_id,age,gender,city,purchase_amount
+1,23,Female,Jakarta,250
+2,35,Male,Bandung,420
+3,29,Female,Jakarta,310
+4,41,Male,Surabaya,580
+5,22,Female,Jakarta,190
+6,33,Male,Bandung,450
+7,27,Female,Surabaya,330
+8,45,Male,Jakarta,610
+9,31,Female,Bandung,390
+10,26,Male,Jakarta,280
