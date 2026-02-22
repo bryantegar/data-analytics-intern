@@ -1,27 +1,40 @@
-# Automated Exchange Rate Data Pipeline
+# Data Analytics Portfolio – Bryan Tegar
 
-## Overview
-This project builds an automated data pipeline that collects real-time USD to IDR exchange rate data from an API, cleans the dataset, and generates a visualization dashboard.
+This portfolio showcases my end-to-end data analytics projects covering data extraction, processing, analysis, modeling, and visualization.
 
-## Features
-- Real-time data ingestion via API
-- Automated data cleaning
-- Historical data storage
-- Visualization chart generation
-- One-command pipeline execution
+## Skills Demonstrated
+- Python Data Processing
+- SQL Analysis
+- Data Visualization
+- Machine Learning
+- Automation Pipeline
+- Business Insight Analysis
 
-## Tech Stack
-Python, Pandas, Requests, Matplotlib
+---
 
-## Pipeline Flow
-API → Raw Data → Cleaning → Visualization
+## Projects
 
-## How to Run
-python run_pipeline.py
+### 1. Automated Data Pipeline
+Builds automated system for collecting real-time data, cleaning it, and generating outputs.
 
-## Output
-- Clean dataset
-- Exchange rate chart
+### 2. SQL Sales Analysis
+Performed SQL queries to analyze revenue trends and product performance.
 
-## Project Purpose
-This project demonstrates skills in data automation, data processing, and pipeline orchestration relevant for Data Analyst and Data Engineer roles.
+### 3. Exploratory Data Analysis
+Analyzed customer dataset to identify spending patterns and demographic insights.
+
+### 4. Machine Learning Prediction
+Built regression model to predict customer purchase amount.
+
+### 5. Business Dashboard
+Created analytics dashboard showing KPIs and revenue insights.
+
+---
+
+## Tools Used
+Python • Pandas • SQL • Matplotlib • Scikit-Learn
+
+---
+
+## Goal
+Seeking Data Analyst / Data Internship opportunity to apply data skills in real business environment.
